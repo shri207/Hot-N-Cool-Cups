@@ -1,0 +1,6 @@
+{
+  "name": "Hot N Cool Cups",
+  "description": "Industrial Neon & Urban Street Café serving freshly brewed chai, artisanal coffee, refreshing coolers, and crispy snacks in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
